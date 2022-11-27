@@ -10,7 +10,7 @@ data=pd.read_csv("country.csv")
 #################################
 
 st.image("f4k.jpg")
-st.image("Head.jpg")
+st.image("head.jpg")
 st.write("“According to the UNICEF, one in 5 children in the least developed countries are engaged in child labor. A problem that was aggravated by COVID-19 and global economic decline that it takes a walk in Beirut to believe these numbers. Children require different systems of protection that starts with parents and extends to every office, business, institution, organization and agency, local and international, governmental or otherwise. Everyone, who is not a child, is responsible”")
 st.markdown("----")
 
